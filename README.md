@@ -1,5 +1,11 @@
 # Music-Player
-This is a basic Music PLayer build using HTML , CSS , Javascript
+This is a basic Music PLayer.
+
+Build using : 
+1. HTML
+2. CSS
+3. Javascript
+4. Basic OOPs Concept
 
 ![2023-07-13 (6)](https://github.com/ravi-singh-100/Music-Player/assets/84458346/8f788217-4a6c-48ba-92f9-a547e8e2d8db)
 
